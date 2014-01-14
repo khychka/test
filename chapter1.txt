@@ -1,1 +1,2 @@
 This is the first chapter.
+Adding a new line to the chapter.
